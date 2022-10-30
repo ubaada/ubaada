@@ -21,4 +21,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ubaada&show_icons=true&theme=maroongold&hide_border=true&text_color=ffffff&title_color=ffffff&card_width=410&include_all_commits=true&hide=contribs&line_height=29" />
 </p>
 
-<a href="https://stackoverflow.com/users/13105798/user13105798"><img src="https://stackoverflow.com/users/flair/13105798.png" width="208" height="58" alt="profile for user13105798 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for user13105798 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
