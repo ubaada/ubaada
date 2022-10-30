@@ -12,9 +12,13 @@
   <img src="https://user-images.githubusercontent.com/22624761/198351818-ed5b9e6a-717c-437b-8ff4-f095ed68d0e9.png" width="25px" height="25px" alt="Notepadpp"/>
   <img src="https://user-images.githubusercontent.com/22624761/198352739-1316edc9-3a60-478b-9972-22ace8656fe2.png" width="25px" height="25px" alt="Terminal"/>
   <img src="https://user-images.githubusercontent.com/22624761/198353604-b696e020-333e-4a9d-ac75-e4006015d1e4.png" width="25px" height="25px" alt="Numpy (python)"/>
+  <img src="https://user-images.githubusercontent.com/22624761/198860551-d9fcd4bf-16a6-4caf-8703-5373fcd1c7e7.png" width="25px" height="25px" alt="Huggingface"/>
+  
 </p>
                                                                                                                 
 <p float="left" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ubaada&show_icons=true&theme=maroongold&hide_border=true&text_color=ffffff&title_color=ffffff&card_width=410&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaada&layout=compact&langs_count=10&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=260000&card_width=360" />
+<img src="https://github-readme-stats.vercel.app/api?username=ubaada&show_icons=true&theme=maroongold&hide_border=true&text_color=ffffff&title_color=ffffff&card_width=410&include_all_commits=true&hide=contribs&line_height=29" />
 </p>
+
+<a href="https://stackoverflow.com/users/13105798/user13105798"><img src="https://stackoverflow.com/users/flair/13105798.png" width="208" height="58" alt="profile for user13105798 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for user13105798 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
