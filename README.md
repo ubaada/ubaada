@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/22624761/198352739-1316edc9-3a60-478b-9972-22ace8656fe2.png" width="25px" height="25px" title="Terminal"/>
   <img src="https://user-images.githubusercontent.com/22624761/198353604-b696e020-333e-4a9d-ac75-e4006015d1e4.png" width="25px" height="25px" title="Numpy (python)"/>
   <img src="https://user-images.githubusercontent.com/22624761/198860551-d9fcd4bf-16a6-4caf-8703-5373fcd1c7e7.png" width="25px" height="25px" title="Huggingface"/>
-  
+  <img src="https://user-images.githubusercontent.com/22624761/213868128-f0826b7b-4abb-45ab-8815-3a91a935f167.png" width="40px" height="25px" title="AWS"/>
 </p>
                                                                                                                 
 <p float="left" align="center">
