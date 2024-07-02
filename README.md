@@ -20,9 +20,9 @@
 
 ## Most Used Languages (GitHub)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=https://ubaada.com/lang-stats.php?&text_color=e6edf3">
-  <source media="(prefers-color-scheme: light)" srcset="https://ubaada.com/lang-stats.php?&text_color=000000">
-  <img src="https://ubaada.com/lang-stats.php?&text_color=e6edf3" width="100%" padding="200px"/>
+  <source media="(prefers-color-scheme: dark)" srcset=https://ubaada.com/lang-stats.php?text_color=e6edf3">
+  <source media="(prefers-color-scheme: light)" srcset="https://ubaada.com/lang-stats.php?text_color=000000">
+  <img src="https://ubaada.com/lang-stats.php?text_color=e6edf3" width="100%" padding="200px"/>
 
 </picture>
 </p>
