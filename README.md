@@ -17,7 +17,13 @@
 </p>
                                                                                                                 
 <p float="left" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaada&layout=compact&langs_count=10&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=260000&card_width=360" />
-<img src="https://github-readme-stats.vercel.app/api?username=ubaada&show_icons=true&theme=maroongold&hide_border=true&text_color=ffffff&title_color=ffffff&card_width=410&include_all_commits=true&hide=contribs&line_height=29" />
+
+## Most Used Languages (GitHub)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ubaada.com/lang-stats.php?bg_color=0d1117&text_color=e6edf3">
+  <source media="(prefers-color-scheme: light)" srcset="https://ubaada.com/lang-stats.php?bg_color=ffffff&text_color=000000">
+  <img src="https://ubaada.com/lang-stats.php?bg_color=0d1117&text_color=e6edf3" width="100%" padding="200px"/>
+
+</picture>
 </p>
 
